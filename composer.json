@@ -1,5 +1,5 @@
 {
-  "name": "chrisandchris/barcode-bundle",
+  "name": "maxencebeno/barcode-bundle",
   "type": "symfony-bundle",
   "description": "Symfony 3 & 4 Barcode Generator Bundle with Twig function extension",
   "keywords": [
