@@ -27,5 +27,11 @@
   "autoload": {
     "psr-4": { "SGK\\BarcodeBundle\\": "" }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "stable",
+  "extra": {
+    "thanks": {
+      "name": "sgk/barcode-bundle",
+      "url": "https://github.com/chrisandchris/barcode-bundle"
+    }
+  }
 }
