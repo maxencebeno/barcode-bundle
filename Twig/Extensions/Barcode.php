@@ -3,7 +3,7 @@
 namespace SGK\BarcodeBundle\Twig\Extensions;
 
 use SGK\BarcodeBundle\Generator\Generator;
-use Twig_Extension;
+use Twig\Extension\AbstractExtension;
 use Twig_SimpleFunction;
 
 /**
@@ -11,7 +11,7 @@ use Twig_SimpleFunction;
  *
  * @package SGK\BarcodeBundle\Twig\Extensions
  */
-class Barcode extends Twig_Extension
+class Barcode extends AbstractExtension
 {
     /**
      * @var Generator
